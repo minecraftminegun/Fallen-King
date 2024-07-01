@@ -7,7 +7,7 @@ game.Players.LocalPlayer:Kick("You're a FURRY, hands up skid.")
 elseif game.PlaceId == 4739557376 then -- Tower Blitz
 game.Players.LocalPlayer:Kick("You're not allowed to exploit at this game.")
 elseif game.PlaceId == 17321655937 then -- [Upd] Women tycoon
-game.Players.LocalPlayer:Kick("You're such a simp and not allowed to exploit on girl.")
+game.Players.LocalPlayer:Kick("You're such a simp and not allowed to exploit on girls.")
 elseif game.PlaceId == 4483381587 then -- a literal baseplate.
 game.Players.LocalPlayer:Kick("You don't have to be testing this script here, it is already tested and works well.")
 end
