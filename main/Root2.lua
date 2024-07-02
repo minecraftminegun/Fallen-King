@@ -3,7 +3,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/minecraftminegun/Fall
 if game.PlaceId == 3260590327 then -- ⚡ACE REWORK⚡ Tower Defense Simulator
 game.Players.LocalPlayer:Kick("You're not allowed to exploit at this game.")
 elseif game.PlaceId == 15586387048 then -- 🐾[1100+] Furry&Catboy-Catgirl Clothing&Outfits
-game.Players.LocalPlayer:Kick("You're a FURRY, hands up skid.")
+game.Players.LocalPlayer:Kick("You're such a FURRY, hands up skid.")
 elseif game.PlaceId == 4739557376 then -- Tower Blitz
 game.Players.LocalPlayer:Kick("You're not allowed to exploit at this game.")
 elseif game.PlaceId == 17321655937 then -- [Upd] Women tycoon
