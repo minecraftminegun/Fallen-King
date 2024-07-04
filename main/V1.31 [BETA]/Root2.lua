@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/minecraftminegun/Fallen-King-Hub/main/main%20/Fallen%20King%20Hub%20V1.30%20%5BBETA%5D%20/Root2.lua'))("")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/minecraftminegun/Fallen-King-Hub/main/main%20/Fallen%20King%20Hub%20%5BBETA%5D%20/Root2.lua'))("")
 
 if game.PlaceId == 3260590327 then -- ⚡ACE REWORK⚡ Tower Defense Simulator
 game.Players.LocalPlayer:Kick("You're not allowed to exploit at this game.")
